@@ -2,7 +2,7 @@
 
 An interactive, single-page sales analytics dashboard built with **Microsoft Excel**. This project visualizes retail sales data across product categories, geographic regions, customer segments, and order shipment modes to provide actionable business insights.
 
-![Excel Dashboard Preview](excel-screenshot-1.jpg)
+![Excel Dashboard Preview](excel-screenshot-1.png)
 
 ---
 
